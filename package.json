@@ -1,11 +1,11 @@
 {
   "name": "lwip",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "dependencies": {
     "async": "~0.9.0",
     "decree": "0.0.6",
-    "nan": "~2.0.9"
+    "nan": "^2.3.3"
   },
   "scripts": {
     "install": "node-gyp rebuild",
